@@ -1,0 +1,112 @@
+body{
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+#title{
+  color: white;
+  background-color: #ff4c68;
+}
+#features{
+  text-align: center;
+  padding:6% 3% ;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+#testimonials{
+  background-color: #ef8172;
+  font-family: "Montserrat";
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+h1{
+  font-family: "Montserrat-Black" , sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+h3{
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+p{
+  font-family: "Montserrat-thin";
+  font-weight: 100;
+  color: #8f8f8f;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.iphone{
+  transform: rotate(20deg);
+  width: 60%;
+  margin-left: 40px;
+  position: absolute;
+  right: 25%;
+
+}
+.icons{
+  color: #ef8172;
+  padding-bottom: 1rem;
+ }
+ .icons:hover{
+   color: #ff4c68;
+ }
+ .row-features{
+  padding: 0 200px;
+ }
+
+
+#press{
+  text-align: center;
+  background-color: #ef8172;
+  padding: 7% 5%;
+}
+.AD{
+  margin: 0 1rem;
+  width: 20%;
+}
+h2{
+  padding: 4% 15%;
+  line-height: 2;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+.cust{
+  margin-bottom: 4rem;
+  width: 10%;
+  border-radius: 100%;
+}
+
+body{
+  font-family: "Montserrat-light";
+  font-weight: 200;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+  padding-left: 0;
+
+}
+.navbar-brand{
+  font-family:"Ubuntu";
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+.nav-item{
+  padding:0 18px;
+}
+.nav-link{
+  font-family: "Montserrat-light";
+  font-size: 120%;
+}
+.btn-outline-light,.btn-dark{
+  margin:5% 3% 5% 0;
+}
+#pricing{
+  text-align: center;
+}
